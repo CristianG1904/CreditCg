@@ -10,7 +10,7 @@ You can use "cmd" or "vs terminal"
 
 **1. Clone repository**:
 
-    git clone https://github.com/AndreyK-2305/CreditKeLin/tree/feature/initial-scaffolding
+    git clone https://github.com/CristianG1904/CreditCg
 
 **2. change directory to "cg_django"**:
 
